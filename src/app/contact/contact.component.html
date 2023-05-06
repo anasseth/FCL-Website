@@ -33,16 +33,16 @@
                         <h2>Feel free to write</h2>
                     </div>
                     <!-- Contact Form -->
-                    <form id="contact_form" name="contact_form" class="" action="includes/sendmail.php" method="post">
+                    <form [formGroup]="ContactForm" id="contact_form" name="contact_form" class="" action="includes/sendmail.php" method="post">
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="mb-3">
-                                    <input name="form_name" class="form-control" type="text" placeholder="Enter Name">
+                                    <input name="form_name" class="form-control" type="text" formControlName="name" placeholder="Enter Name">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="mb-3">
-                                    <input name="form_email" class="form-control required email" type="email"
+                                    <input name="form_email" class="form-control required email" formControlName="email" type="email"
                                         placeholder="Enter Email">
                                 </div>
                             </div>
@@ -50,25 +50,25 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="mb-3">
-                                    <input name="form_subject" class="form-control required" type="text"
+                                    <input name="form_subject" class="form-control required" formControlName="subject" type="text"
                                         placeholder="Enter Subject">
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="mb-3">
-                                    <input name="form_phone" class="form-control" type="text" placeholder="Enter Phone">
+                                    <input name="form_phone" class="form-control" type="text" formControlName="phone" placeholder="Enter Phone">
                                 </div>
                             </div>
                         </div>
                         <div class="mb-3">
-                            <textarea name="form_message" class="form-control required" rows="7"
+                            <textarea name="form_message" class="form-control required" rows="7" formControlName="message"
                                 placeholder="Enter Message"></textarea>
                         </div>
                         <div class="mb-3">
-                            <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                            <button type="submit" class="theme-btn btn-style-one"
+                            <!-- <input name="form_botcheck" class="form-control" type="hidden" value=""> -->
+                            <button type="submit" [disabled]="this.ContactForm.invalid" class="theme-btn btn-style-one" (click)="onSubmit()"
                                 data-loading-text="Please wait..."><span class="btn-title">Send message</span></button>
-                            <button type="reset" class="theme-btn btn-style-one"><span
+                            <button type="reset" class="theme-btn btn-style-one" (click)="resetForm()"><span
                                     class="btn-title">Reset</span></button>
                         </div>
                     </form>
@@ -90,7 +90,7 @@
                                 </div>
                                 <div class="text">
                                     <h6>Have any question?</h6>
-                                    <a href="tel:980089850"><span>Free</span> +92 (340) 2437207</a>
+                                    <a><span>Free</span> +92 (340) 2437207</a>
                                 </div>
                             </li>
                             <li>
@@ -99,7 +99,7 @@
                                 </div>
                                 <div class="text">
                                     <h6>Write email</h6>
-                                    <a href="mailto:needhelp@company.com">mail@fcl.com</a>
+                                    <a>mail@fcl.com</a>
                                 </div>
                             </li>
                             <li>

@@ -1,148 +1,148 @@
 @media only screen and (max-width: 1700px) {
     .header-style-one .header-upper .main-menu .navigation>li {
-        margin-right: 40px;
+        margin-right: 40px !important;
     }
 
     .header-style-one .outer-box {
-        margin-left: 0
+        margin-left: 0px !important;
     }
 
     .header-top,
     .header-upper {
-        padding: 0 40px;
+        padding: 0 40px !important;
     }
 
     .banner-carousel .owl-nav {
-        left: 50px;
+        left: 50px !important;
     }
 }
 
 @media only screen and (max-width: 1439px) {
     .main-header .logo {
-        min-width: 200px;
-        padding-right: 20px;
+        min-width: 200px !important;
+        padding-right: 20px !important;
     }
 
     .main-header .outer-box .info-btn {
-        min-width: auto;
-        padding: 15px 30px;
-        display: none;
+        min-width: auto !important;
+        padding: 15px 30px !important;
+        display: none !important;
     }
 
     .about-section .image-column .image-2 {
-        left: 20px;
+        left: 20px !important;
     }
 
     .about-section .experience {
-        left: 0;
+        left: 0px !important;
     }
 
     .about-section-two .experience {
-        left: 0;
+        left: 0px !important;
     }
 
     .banner-carousel .owl-nav {
-        display: none;
+        display: none !important;
     }
 }
 
 @media only screen and (max-width: 1199px) {
     .header-top .top-left .text {
-        display: none;
+        display: none !important;
     }
 
     .header-top,
     .header-upper {
-        padding: 0 15px;
+        padding: 0 15px !important;
     }
 
     .main-slider h2 {
-        font-size: 84px;
+        font-size: 84px !important;
     }
 
     .service-block:nth-child(2) {
-        margin-top: 0;
+        margin-top: 0px !important;
     }
 
     .services-section {
-        margin: 0;
-        background-color: var(--bg-theme-color1);
-        padding: 70px 0 100px;
+        margin: 0px !important;
+        background-color: var(--bg-theme-color1) !important;
+        padding: 70px 0 100px !important;
     }
 
     .services-section:before {
-        display: none;
+        display: none !important;
     }
 
     .about-section .content-column .inner-column {
-        padding-left: 30px;
-        padding-top: 30px;
-        margin-top: 0;
-        margin-left: -30px;
+        padding-left: 30px !important;
+        padding-top: 30px !important;
+        margin-top: 0px !important;
+        margin-left: -30px !important;
     }
 
     .about-section .image-column .image-1:before,
     .about-section .image-column .image-2 {
-        display: none;
+        display: none !important;
     }
 
     .project-block .content-box {
-        padding-left: 0;
+        padding-left: 0px !important;
     }
 
     .quote-section .content-column {
-        padding-left: 30px;
-        max-width: 230px;
+        padding-left: 30px !important;
+        max-width: 230px !important;
     }
 
     .service-block {
         margin-top: 70px !important;
-        margin-bottom: 30px;
+        margin-bottom: 30px !important;
     }
 
     .header-style-two .logo {
-        min-width: 170px;
+        min-width: 170px !important;
     }
 
     .header-style-two .ui-btn {
-        margin-left: 20px;
+        margin-left: 20px !important;
     }
 
     .header-style-two .outer-box:before {
-        display: none;
+        display: none !important;
     }
 
     .header-style-two .header-upper .main-menu .navigation>li {
-        margin-right: 45px;
+        margin-right: 45px !important;
     }
 
     .main-header.header-style-two .outer-box {
-        margin-left: 0;
-        border-left: 0;
+        margin-left: 0px !important;
+        border-left: 0px !important;
     }
 
     .about-section-two .content-column .inner-column {
-        margin-left: 0;
+        margin-left: 0px !important;
     }
 
     .about-section-two .image-column .image::before {
-        display: none;
+        display: none !important;
     }
 
     .pricing-block .inner-box {
-        padding: 40px 40px 40px;
+        padding: 40px 40px 40px !important;
     }
 
     .team-block .info-box {
-        margin-right: 20px;
+        margin-right: 20px !important;
     }
 
     .header-style-two .main-box {
-        padding: 0 20px;
+        padding: 0 20px !important;
     }
 
     .contact-section .map {
-        top: 235px;
+        top: 235px !important;
     }
 
 }
@@ -153,8 +153,8 @@
     .main-menu .navigation>li>ul,
     .main-menu .navigation>li>ul>li>ul {
         display: block !important;
-        visibility: hidden;
-        opacity: 0;
+        visibility: hidden !important;
+        opacity: 0px !important;
     }
 }
 
@@ -163,156 +163,156 @@
 
     .main-header .logo img,
     .sticky-header .logo img {
-        max-height: 30px;
-        width: auto;
-        max-width: none;
+        max-height: 30px !important;
+        width: auto !important;
+        max-width: none !important;
     }
 
     .main-header .ui-btn.mobile-search-btn,
     .mobile-nav-toggler {
-        display: block;
+        display: block !important;
     }
 
     .main-header .logo {
-        min-width: auto;
+        min-width: auto !important;
     }
 
     .main-header .main-box .nav-outer {
-        width: auto;
+        width: auto !important;
     }
 
     .main-header .ui-btn {
-        font-size: 24px;
-        line-height: 35px;
-        margin-left: 20px;
+        font-size: 24px !important;
+        line-height: 35px !important;
+        margin-left: 20px !important;
     }
 
     .header-top,
     .header-style-two .header-top,
     .main-header .main-menu {
-        display: none;
+        display: none !important;
     }
 
     .mobile-nav-toggler {
         color: #fff;
-        margin-left: 20px;
+        margin-left: 20px !important;
     }
 
     .header-top .info-list li {
-        margin-left: 0;
-        margin-right: 30px;
+        margin-left: 0px !important;
+        margin-right: 30px !important;
     }
 
     .main-slider h2 {
-        font-size: 72px;
+        font-size: 72px !important;
     }
 
     .about-section .image-column .inner-column {
-        margin-right: 0;
+        margin-right: 0px !important;
     }
 
     .about-section .image-column {
-        margin-bottom: 0
+        margin-bottom: 0 !important;
     }
 
     .about-section .image-column .image-1 {
-        margin-bottom: 20px
+        margin-bottom: 20px !important;
     }
 
     .about-section .image-column .image-1 img {
-        width: 100%;
+        width: 100% !important;
     }
 
     .fact-counter .counter-column {
-        margin-bottom: 50px;
+        margin-bottom: 50px !important;
     }
 
     .fact-counter .counter-column:last-child {
-        margin-bottom: 0;
+        margin-bottom: 0px !important;
     }
 
     .quote-section .outer-box {
-        flex-direction: column
+        flex-direction: column !important;
     }
 
     .quote-section .content-column {
-        max-width: 100%;
-        padding-bottom: 30px;
-        text-align: center
+        max-width: 100% !important;
+        padding-bottom: 30px !important;
+        text-align: center !important;
     }
 
     .request-form .form-group input[type=submit],
     .request-form .form-group button {
-        width: 100%;
+        width: 100% !important;
     }
 
     .call-to-action .outer-box {
-        flex-direction: column;
-        text-align: center
+        flex-direction: column !important;
+        text-align: center !important;
     }
 
     .call-to-action .title-box {
-        margin-bottom: 30px
+        margin-bottom: 30px !important;
     }
 
     .header-style-two .header-upper {
-        background-color: var(--bg-theme-color1)
+        background-color: var(--bg-theme-color1) !important;
     }
 
     .header-style-two .ui-btn {
-        font-size: 20px;
-        margin-left: 10px;
+        font-size: 20px !important;
+        margin-left: 10px !important;
     }
 
     .header-style-two .main-box {
-        padding: 0;
+        padding: 0px !important;
     }
 
     .banner-section .content-box .line {
-        display: none;
+        display: none !important;
     }
 
     .banner-section .image-box {
-        margin: 0;
-        padding: 0;
-        max-width: 70%;
-        margin: 50px auto 0;
+        margin: 0px !important;
+        padding: 0px !important;
+        max-width: 70% !important;
+        margin: 50px auto 0px !important;
     }
 
 
     .banner-section .slide-item {
-        padding: 150px 0 50px;
-        text-align: center
+        padding: 150px 0 50px !important;
+        text-align: center !important;
     }
 
     .banner-section .image-box .video-box .play-now {
-        margin: 0;
+        margin: 0px !important;
     }
 
     .banner-carousel .owl-nav,
     .pricing-section .bg-layer,
     .banner-section .image-box .video-box .title {
-        display: none;
+        display: none !important;
     }
 
     .banner-section .image-box .video-box {
-        left: 0;
-        right: 0;
-        margin: 0 auto;
-        top: 0;
+        left: 0px !important;
+        right: 0px !important;
+        margin: 0 auto !important;
+        top: 0px !important;
     }
 
     .about-section-two .image-column .image {
-        max-width: 100%;
-        margin-bottom: 30px;
+        max-width: 100% !important;
+        margin-bottom: 30px !important;
     }
 
     .about-section-two .image-column .image img {
-        width: 100%;
+        width: 100% !important;
     }
 
     .testimonial-slider {
-        margin-top: 30px;
+        margin-top: 30px !important;
     }
 
     .testimonial-slider,
@@ -321,94 +321,94 @@
     }
 
     .testimonial-block-two .inner-box {
-        padding: 25px;
+        padding: 25px !important;
         text-align: left !important
     }
 
     .testimonial-block-two.style-two .rating {
-        justify-content: flex-start
+        justify-content: flex-start !important;
     }
 
     .testimonial-block-two .thumb {
-        position: relative;
-        margin: 0 0 20px;
+        position: relative !important;
+        margin: 0 0 20px !important;
     }
 
     .contact-section {
-        padding-bottom: 0;
+        padding-bottom: 0px !important;
     }
 
     .contact-section .info-column {
         order: 0 !important;
-        margin-bottom: 30px;
+        margin-bottom: 30px !important;
     }
 
     .map {
-        position: relative;
-        top: 0;
-        bottom: 0;
-        display: block;
-        margin-top: 15px;
+        position: relative !important;
+        top: 0px !important;
+        bottom: 0px !important;
+        display: block !important;
+        margin-top: 15px !important;
     }
 
     .banner-section .content-box {
-        padding-left: 0;
+        padding-left: 0px !important;
     }
 
     .banner-section .content-box .btn-box {
-        margin-left: 0;
+        margin-left: 0px !important;
     }
 }
 
 
 @media only screen and (max-width: 767px) {
     .main-slider h2 {
-        font-size: 48px;
+        font-size: 48px !important;
     }
 
     .main-slider .text {
-        font-size: 16px;
-        line-height: 26px;
+        font-size: 16px !important;
+        line-height: 26px !important;
     }
 
     .banner-section .content-box h2,
     .sec-title h1 {
-        font-size: 42px;
-        line-height: 1.2em;
+        font-size: 42px !important;
+        line-height: 1.2em !important;
     }
 
     .sec-title h2 {
-        font-size: 36px;
+        font-size: 36px !important;
     }
 
     .sec-title h2 br {
-        display: none;
+        display: none !important;
     }
 
 
     .fact-counter .counter-column .inner-column {
-        flex-direction: column
+        flex-direction: column !important;
     }
 
     .testimonial-block .inner-box {
-        padding: 40px 40px 30px;
+        padding: 40px 40px 30px !important;
     }
 
     .testimonial-thumbs {
-        display: none;
+        display: none !important;
     }
 
     .testimonial-block .image {
-        position: relative;
-        width: 100%;
+        position: relative !important;
+        width: 100% !important;
     }
 
     .banner-section .content-box h2 {
-        margin-bottom: 20px;
+        margin-bottom: 20px !important;
     }
 
     .banner-section .slide-item {
-        min-height: auto;
+        min-height: auto !important;
     }
 
     .team-block {
@@ -417,7 +417,7 @@
     }
 
     .service-block-two:first-child {
-        margin-top: 0;
+        margin-top: 0px !important;
     }
 }
 
@@ -425,218 +425,218 @@
 
     .banner-section .content-box h2,
     .main-slider h2 {
-        font-size: 36px;
+        font-size: 36px !important;
     }
 
     .main-slider .text {
-        font-size: 14px;
-        line-height: 22px;
+        font-size: 14px !important;
+        line-height: 22px !important;
     }
 
     .main-slider .theme-btn {
-        padding: 10px 30px;
+        padding: 10px 30px !important;
     }
 
     .about-section blockquote {
-        line-height: 26px
+        line-height: 26px !important;
     }
 
     .about-section .bottom-box {
-        padding-right: 0;
+        padding-right: 0px !important;
     }
 
     .about-section .bottom-box .video-box {
-        position: relative;
-        margin-bottom: 30px;
+        position: relative !important;
+        margin-bottom: 30px !important;
     }
 
     .about-section .bottom-box .video-box img {
-        width: 100%;
+        width: 100% !important;
     }
 
     .about-section-two .experience,
     .about-section .experience {
-        transform: scale(.7);
-        transform-origin: left top;
+        transform: scale(.7) !important;
+        transform-origin: left top !important;
     }
 
     .about-section-two .experience {
-        top: 50px;
+        top: 50px !important;
     }
 
 
     .fact-counter .counter-column .icon img {
-        max-width: 100px;
+        max-width: 100px !important;
     }
 
     .sec-title h1 {
-        font-size: 36px;
+        font-size: 36px !important;
     }
 
     .sec-title h2 {
-        font-size: 28px;
+        font-size: 28px !important;
     }
 
     .testimonial-block .inner-box {
-        text-align: center
+        text-align: center !important;
     }
 
     .testimonial-block .text {
-        font-size: 16px;
-        line-height: 26px
+        font-size: 16px !important;
+        line-height: 26px !important;
     }
 
     .testimonial-block .quote-icon {
-        opacity: .2;
+        opacity: .2 !important;
     }
 
     .testimonial-block .rating {
-        position: relative;
-        margin: 0;
-        margin-top: 10px;
-        left: 0;
-        top: 0;
-        display: inline-flex
+        position: relative !important;
+        margin: 0px !important;
+        margin-top: 10px !important;
+        left: 0px !important;
+        top: 0px !important;
+        display: inline-flex !important;
     }
 
     .quote-section .outer-box {
-        padding: 10px;
+        padding: 10px !important;
     }
 
     .quote-section .form-column .inner-column {
-        padding: 30px 30px 30px;
+        padding: 30px 30px 30px !important;
     }
 
     .call-to-action h2 {
-        font-size: 24px;
+        font-size: 24px !important;
     }
 
     .call-to-action .outer-box {
-        padding: 40px 30px;
+        padding: 40px 30px !important;
     }
 
 
     .recent-posts .post {
-        padding-left: 0;
+        padding-left: 0px !important;
     }
 
     .recent-posts .post .thumb {
-        position: relative;
-        margin-bottom: 15px;
+        position: relative !important;
+        margin-bottom: 15px !important;
     }
 
     .footer-bottom .inner-container {
-        padding: 25px 0;
+        padding: 25px 0px !important;
     }
 
     .banner-section .content-box .btn-box .theme-btn {
-        padding: 10px 30px;
+        padding: 10px 30px !important;
     }
 
     .about-section-two .content-column .inner-column {
-        text-align: center
+        text-align: center !important;
     }
 
     .about-section-two .content-column .inner-column .sec-title .sub-title:before {
-        right: 0;
-        margin: 0 auto;
+        right: 0px !important;
+        margin: 0 auto !important;
     }
 
     .about-block {
-        text-align: center;
-        padding-left: 0;
-        margin-bottom: 50px;
+        text-align: center !important;
+        padding-left: 0px !important;
+        margin-bottom: 50px !important;
     }
 
     .about-block .icon {
-        position: relative;
-        margin: 0 auto 20px;
+        position: relative !important;
+        margin: 0 auto 20px !important;
     }
 
     .service-block-two .inner-box {
-        margin-right: 0;
-        text-align: center;
-        padding: 30px;
+        margin-right: 0px !important;
+        text-align: center !important;
+        padding: 30px !important;
     }
 
     .service-block-two .text {
-        min-height: auto;
+        min-height: auto !important;
     }
 
     .service-block-two .image {
-        margin-right: 0;
+        margin-right: 0px !important;
     }
 
     .service-block-two .icon {
-        position: relative;
-        margin: 0 auto 20px;
-        left: 0;
-        top: 0;
+        position: relative !important;
+        margin: 0 auto 20px !important;
+        left: 0px !important;
+        top: 0px !important;
     }
 
     .service-block-two .read-more {
-        position: relative;
-        opacity: 1;
-        left: 0;
+        position: relative !important;
+        opacity: 1 !important;
+        left: 0px !important;
         top: 0 !important;
-        visibility: visible;
-        display: block;
-        transform: none;
+        visibility: visible !important;
+        display: block !important;
+        transform: none !important;
     }
 
     .pricing-block .price-box {
-        flex-direction: column;
+        flex-direction: column !important;
     }
 
     .pricing-block .price-box .validaty {
-        top: 0;
+        top: 0px !important;
     }
 
     .branch-block .inner-box {
-        box-shadow: none;
+        box-shadow: none !important;
     }
 
     .pricing-section .title-column .sec-title {
-        padding-right: 0;
+        padding-right: 0px !important;
     }
 
     .contact-form {
-        padding: 30px 30px;
+        padding: 30px 30px !important;
     }
 
     .contact-form .form-group input[type=submit],
     .contact-form .form-group button {
-        width: 100%;
+        width: 100% !important;
     }
 
     .contact-section .info-column .inner-column {
-        padding-right: 0;
+        padding-right: 0px !important;
     }
 
     .contact-section .info-column .branches-carousel .owl-nav {
-        position: relative;
-        display: flex;
-        left: 0;
+        position: relative !important;
+        display: flex !important;
+        left: 0px !important;
         width: 100%;
     }
 
     .contact-section .info-column .branches-carousel .owl-nav .owl-next,
     .contact-section .info-column .branches-carousel .owl-nav .owl-prev {
-        width: 50%;
-        height: 30px;
+        width: 50% !important;
+        height: 30px !important;
     }
 
     .about-section-two .content-column .theme-btn {
-        margin-top: 0;
+        margin-top: 0px !important;
     }
 
     .testimonial-block .quote-icon {
-        display: none;
+        display: none !important;
     }
 
     .banner-section .image-box .video-box .play-now {
-        -webkit-transform: scale(.7);
-        transform: scale(.7);
+        -webkit-transform: scale(.7) !important;
+        transform: scale(.7) !important;
     }
 }
 

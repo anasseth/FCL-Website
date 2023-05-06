@@ -28,13 +28,13 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/responsive.css",
               "src/styles.scss",
               "src/assets/css/_button.css",
               "src/assets/css/bootstrap.min.css",
               "src/assets/css/fontawesome-all.css",
               "src/assets/css/jquery-ui.css",
               "src/assets/css/owl.css",
-              "src/assets/css/responsive.css",
               "src/assets/css/style.css",
               "src/assets/css/tm-bs-mp.css",
               "src/assets/css/animate.css",
@@ -143,6 +143,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/responsive.css",
               "src/styles.scss",
               "src/assets/css/style.css",
               "src/assets/css/_button.css",
@@ -150,7 +151,6 @@
               "src/assets/css/fontawesome-all.css",
               "src/assets/css/jquery-ui.css",
               "src/assets/css/owl.css",
-              "src/assets/css/responsive.css",
               "src/assets/css/tm-bs-mp.css",
               "src/assets/css/animate.css",
               "src/assets/css/flaticon-set-logistics.css",

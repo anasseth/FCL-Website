@@ -28,9 +28,56 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/_button.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/fontawesome-all.css",
+              "src/assets/css/jquery-ui.css",
+              "src/assets/css/owl.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/style.css",
+              "src/assets/css/tm-bs-mp.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/flaticon-set-logistics.css",
+              "src/assets/css/jquery.fancybox.min.css",
+              "src/assets/css/linear.css",
+              "src/assets/css/select2.min.css",
+              "src/assets/css/swiper.min.css",
+              "src/assets/css/tm-utility-classes.css",
+              "src/assets/css/plugin/revolution/layer.css",
+              "src/assets/css/plugin/revolution/navigation.css",
+              "src/assets/css/plugin/revolution/settings.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/appear.js",
+              "src/assets/js/html5shiv.js",
+              "src/assets/js/jquery.form.min.js",
+              "src/assets/js/jquery.validate.min.js",
+              "src/assets/js/mixitup.js",
+              "src/assets/js/respond.js",
+              "src/assets/js/select2.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/jquery.countdown.js",
+              "src/assets/js/jquery.themepunch.revolution.min.js",
+              "src/assets/js/jquery-ui.js",
+              "src/assets/js/owl.js",
+              "src/assets/js/swiper.min.js",
+              "src/assets/js/bxslider.js",
+              "src/assets/js/jquery.fancybox.js",
+              "src/assets/js/jquery.themepunch.tools.min.js",
+              "src/assets/js/main-slider-script.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/script.js",
+              "src/assets/js/wow.js",
+              "src/assets/js/revolution/revolution.extension.actions.min.js",
+              "src/assets/js/revolution/revolution.extension.layeranimation.min.js",
+              "src/assets/js/revolution/revolution.extension.slideanims.min.js",
+              "src/assets/js/revolution/revolution.extension.carousel.min.js",
+              "src/assets/js/revolution/revolution.extension.migration.min.js",
+              "src/assets/js/revolution/revolution.extension.video.min.js",
+              "src/assets/js/revolution/revolution.extension.kenburn.min.js",
+              "src/assets/js/revolution/revolution.extension.parallax.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -96,9 +143,56 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "src/styles.scss",
+              "src/assets/css/style.css",
+              "src/assets/css/_button.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/fontawesome-all.css",
+              "src/assets/css/jquery-ui.css",
+              "src/assets/css/owl.css",
+              "src/assets/css/responsive.css",
+              "src/assets/css/tm-bs-mp.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/flaticon-set-logistics.css",
+              "src/assets/css/jquery.fancybox.min.css",
+              "src/assets/css/linear.css",
+              "src/assets/css/select2.min.css",
+              "src/assets/css/swiper.min.css",
+              "src/assets/css/tm-utility-classes.css",
+              "src/assets/css/plugin/revolution/layer.css",
+              "src/assets/css/plugin/revolution/navigation.css",
+              "src/assets/css/plugin/revolution/settings.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/appear.js",
+              "src/assets/js/html5shiv.js",
+              "src/assets/js/jquery.form.min.js",
+              "src/assets/js/jquery.validate.min.js",
+              "src/assets/js/mixitup.js",
+              "src/assets/js/respond.js",
+              "src/assets/js/select2.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/jquery.countdown.js",
+              "src/assets/js/jquery.themepunch.revolution.min.js",
+              "src/assets/js/jquery-ui.js",
+              "src/assets/js/owl.js",
+              "src/assets/js/swiper.min.js",
+              "src/assets/js/bxslider.js",
+              "src/assets/js/jquery.fancybox.js",
+              "src/assets/js/jquery.themepunch.tools.min.js",
+              "src/assets/js/main-slider-script.js",
+              "src/assets/js/popper.min.js",
+              "src/assets/js/script.js",
+              "src/assets/js/wow.js",
+              "src/assets/js/revolution/revolution.extension.actions.min.js",
+              "src/assets/js/revolution/revolution.extension.layeranimation.min.js",
+              "src/assets/js/revolution/revolution.extension.slideanims.min.js",
+              "src/assets/js/revolution/revolution.extension.carousel.min.js",
+              "src/assets/js/revolution/revolution.extension.migration.min.js",
+              "src/assets/js/revolution/revolution.extension.video.min.js",
+              "src/assets/js/revolution/revolution.extension.kenburn.min.js",
+              "src/assets/js/revolution/revolution.extension.parallax.min.js"
+            ]
           }
         }
       }
